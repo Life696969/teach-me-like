@@ -1,0 +1,5 @@
+# Build output (release assets are uploaded to GitHub Releases, not committed)
+dist/
+
+# Learner progress files from local testing
+jane-progress.md
